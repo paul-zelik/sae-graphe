@@ -1,0 +1,15 @@
+C:\Users\polux\source\repos\SaeGraphe\Graphe\bin\Debug\net8.0\Graphe.exe
+C:\Users\polux\source\repos\SaeGraphe\Graphe\bin\Debug\net8.0\Graphe.deps.json
+C:\Users\polux\source\repos\SaeGraphe\Graphe\bin\Debug\net8.0\Graphe.runtimeconfig.json
+C:\Users\polux\source\repos\SaeGraphe\Graphe\bin\Debug\net8.0\Graphe.dll
+C:\Users\polux\source\repos\SaeGraphe\Graphe\bin\Debug\net8.0\Graphe.pdb
+C:\Users\polux\source\repos\SaeGraphe\Graphe\obj\Debug\net8.0\Graphe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polux\source\repos\SaeGraphe\Graphe\obj\Debug\net8.0\Graphe.AssemblyInfoInputs.cache
+C:\Users\polux\source\repos\SaeGraphe\Graphe\obj\Debug\net8.0\Graphe.AssemblyInfo.cs
+C:\Users\polux\source\repos\SaeGraphe\Graphe\obj\Debug\net8.0\Graphe.csproj.CoreCompileInputs.cache
+C:\Users\polux\source\repos\SaeGraphe\Graphe\obj\Debug\net8.0\Graphe.sourcelink.json
+C:\Users\polux\source\repos\SaeGraphe\Graphe\obj\Debug\net8.0\Graphe.dll
+C:\Users\polux\source\repos\SaeGraphe\Graphe\obj\Debug\net8.0\refint\Graphe.dll
+C:\Users\polux\source\repos\SaeGraphe\Graphe\obj\Debug\net8.0\Graphe.pdb
+C:\Users\polux\source\repos\SaeGraphe\Graphe\obj\Debug\net8.0\Graphe.genruntimeconfig.cache
+C:\Users\polux\source\repos\SaeGraphe\Graphe\obj\Debug\net8.0\ref\Graphe.dll
